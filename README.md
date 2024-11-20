@@ -10,6 +10,8 @@ such as a [Balances pallet](https://paritytech.github.io/polkadot-sdk/master/pal
 
 ## Challenge Description
 
+<img width="1157" alt="Screenshot 2024-11-20 at 19 08 50" src="https://github.com/user-attachments/assets/51b54596-fd69-4ebc-aa4c-bc181709880b">
+
 TBA
 
 ## Template Structure
