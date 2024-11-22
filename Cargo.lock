@@ -7828,6 +7828,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "pallet-community"
+version = "0.1.0"
+dependencies = [
+ "parity-scale-codec",
+ "polkadot-sdk",
+ "scale-info",
+ "sp-std",
+]
+
+[[package]]
 name = "pallet-contracts"
 version = "38.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -6,7 +6,7 @@ repository = "https://github.com/paritytech/polkadot-sdk-minimal-template.git"
 edition = "2021"
 
 [workspace]
-members = ["node", "pallets/template", "runtime"]
+members = ["node", "pallets/template", "pallets/community", "runtime"]
 resolver = "2"
 
 [workspace.dependencies]
@@ -21,3 +21,4 @@ polkadot-sdk = { version = "0.7.0", default-features = false }
 serde_json = { version = "1.0.127", default-features = false }
 codec = { version = "3.6.12", default-features = false, package = "parity-scale-codec" }
 scale-info = { version = "2.11.1", default-features = false }
+sp-std = { version = "14.0.0", default-features = false }
